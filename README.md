@@ -15,3 +15,5 @@ i "used" the libritts_r (medium) as the checkpoint for training
 
 ## Script
 Since the model didn't work i didn't bother with creating the script, i'd imagine you'd have to use the jinja templates to fill the text with proper time and temperature OR JUST FUCKING USE AI SINCE IT'S THE FUTURE OR STMH SMH MY HEAD
+
+### Nabu casa makes it suck so you pay for their cloud subscription, even opensource is not safe from enshitiffication
