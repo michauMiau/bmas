@@ -2,7 +2,9 @@
 ## Get woken up by the Black Mesa train announcer complete with real info (time, weather outside, temperature inside)
 
 This project consists of: 
+
 The Announcer Voice model
+
 A Home Assistant script that reads out the dialogue with real info
 
 
