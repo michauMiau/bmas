@@ -12,4 +12,4 @@ if you somehow by miracle actually do get something working i shared the csv tra
 i "used" the libritts_r (medium) as the checkpoint for training
 
 ## Script
-Since the model didn't work i didn't bother with creating the script, i'd imagine you'd have to use the jinja templates to fill the text with proper time and temperature
+Since the model didn't work i didn't bother with creating the script, i'd imagine you'd have to use the jinja templates to fill the text with proper time and temperature OR JUST FUCKING USE AI SINCE IT'S THE FUTURE OR STMH SMH MY HEAD
